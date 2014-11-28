@@ -84,6 +84,7 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
     vendor/moto/shamu/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/moto/shamu/proprietary/lib/libmdmdetect.so:system/lib/libmdmdetect.so \
+    vendor/moto/shamu/proprietary/lib/libmemalloc.so:system/lib/libmemalloc.so \
     vendor/moto/shamu/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/moto/shamu/proprietary/lib/librecoglib.so:system/lib/librecoglib.so \
     vendor/moto/shamu/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
